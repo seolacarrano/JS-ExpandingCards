@@ -22,7 +22,7 @@ body {
 
 .panel {
     background-size: cover;
-    background-position: ccenter;
+    background-position: center;
     background-repeat: no-repeat;
     height: 80vh;
     border-radius: 50px;color: #fff;
